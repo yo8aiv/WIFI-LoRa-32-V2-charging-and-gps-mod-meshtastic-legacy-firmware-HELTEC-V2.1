@@ -22,5 +22,6 @@ Also firmware wich seems to work with this version of hardware and settings righ
 >> 
 >>  #define EXT_NOTIFY_OUT 13 // Default pin to use for Ext Notify Module.
 >>
-you can build a custom bin if needed -- >  https://github.com/meshtastic/firmware/blob/master/variants/heltec_v2.1/variant.h
+you can build a custom bin if needed -- >  https://github.com/meshtastic/firmware/tree/master/variants/esp32/heltec_v2.1
+
 
