@@ -1,3 +1,5 @@
+.. see the [Wiki for firmware](https://github.com/yo8aiv/WIFI-LoRa-32-V2-charging-mod---meshtastic-legacy-firmware-HELTEC-V2.1-/wiki) 
+
 Tutorial for use with meshtastic , device WIFI_LoRa_32_V2.1  (SX1276)
 
 as V2 devices are using TP4054 wich seems by (generally) default has a 10k resistor on pin5 PROG
@@ -23,5 +25,6 @@ Also firmware wich seems to work with this version of hardware and settings righ
 >>  #define EXT_NOTIFY_OUT 13 // Default pin to use for Ext Notify Module.
 >>
 you can build a custom bin if needed -- >  https://github.com/meshtastic/firmware/tree/master/variants/esp32/heltec_v2.1
+
 
 
