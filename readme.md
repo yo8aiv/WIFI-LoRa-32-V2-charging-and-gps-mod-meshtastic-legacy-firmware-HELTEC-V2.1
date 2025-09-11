@@ -12,11 +12,11 @@ Sollution is to change R9 to a smaller value 1.6k (or make a bridge with a wire,
 
 ![alt text](https://github.com/yo8aiv/WIFI_LoRa_32_V2_charging_mod/blob/main/back.jpg)
 
-Also firmware wich seems to work with this version of hardware and settings right for baterry Voltage : V2.3.2 beta
+ (~~)Also firmware wich seems to work with this version of hardware and settings right for baterry Voltage : V2.3.2 beta
  
- Thanks to the dev's at -- > https://flasher.pdxlocs.com
+ Thanks to the dev's at -- > https://flasher.pdxlocs.com(~~)
 
-![alt test](https://github.com/yo8aiv/WIFI_LoRa_32_V2_charging_mod/blob/main/Meshtastic%20ESP32%20Web%20Installer.png)
+![alt test](https://github.com/yo8aiv/WIFI_LoRa_32_V2_charging_mod/blob/main/Meshtastic%20ESP32%20Web%20Installer.png)  (~~)
  
 >>  #define BATTERY_PIN 37 // A battery voltage measurement pin, voltage divider connected here to measure battery voltage
 >> 
@@ -24,7 +24,8 @@ Also firmware wich seems to work with this version of hardware and settings righ
 >> 
 >>  #define EXT_NOTIFY_OUT 13 // Default pin to use for Ext Notify Module.
 >>
-you can build a custom bin if needed -- >  https://github.com/meshtastic/firmware/tree/master/variants/esp32/heltec_v2.1
+ (~~)you can build a custom bin if needed -- >  https://github.com/meshtastic/firmware/tree/master/variants/esp32/heltec_v2.1  (~~)
+
 
 
 
