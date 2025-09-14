@@ -1,4 +1,4 @@
-.. see the [Wiki for firmware](https://github.com/yo8aiv/WIFI-LoRa-32-V2-charging-mod---meshtastic-legacy-firmware-HELTEC-V2.1-/wiki)  and  [GPS mod](https://github.com/yo8aiv/WIFI-LoRa-32-V2-charging-and-gps-mod-meshtastic-legacy-firmware-HELTEC-V2.1/wiki/Heltec-V2-,-Heltec-V2.1--add-gps-to-you-meshtastic-node-(lora-device)-!)
+.. see the [Wiki for firmware](https://github.com/yo8aiv/WIFI-LoRa-32-V2-charging-mod---meshtastic-legacy-firmware-HELTEC-V2.1-/wiki)  and  [GPS mod](https://github.com/yo8aiv/WIFI-LoRa-32-V2-charging-and-gps-mod-meshtastic-legacy-firmware-HELTEC-V2.1/wiki/Heltec-V2-,-Heltec-V2.1--add-gps-to-you-meshtastic-node-(lora-device)-!)  as recognition just click on the star. 
 
 Tutorial for use with meshtastic , device WIFI_LoRa_32_V2.1  (SX1276)
 
@@ -25,6 +25,7 @@ Sollution is to change R9 to a smaller value 1.6k (or make a bridge with a wire,
 >>  #define EXT_NOTIFY_OUT 13 // Default pin to use for Ext Notify Module.
 >>
  (~~)you can build a custom bin if needed -- >  https://github.com/meshtastic/firmware/tree/master/variants/esp32/heltec_v2.1  (~~)
+
 
 
 
