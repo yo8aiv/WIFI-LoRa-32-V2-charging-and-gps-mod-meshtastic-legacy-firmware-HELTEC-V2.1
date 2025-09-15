@@ -27,6 +27,7 @@ Sollution is to change R9 to a smaller value 1.6k (or make a bridge with a wire,
  you can build a custom bin if needed -- >  https://github.com/meshtastic/firmware/tree/master/variants/esp32/heltec_v2.1
 
 
+keywords : heltec v2 gps connection, WIFI_LoRa_32_V2.1 gps connection, heltec v2.1 gps, heltec v2 firmware.
 
 
 
