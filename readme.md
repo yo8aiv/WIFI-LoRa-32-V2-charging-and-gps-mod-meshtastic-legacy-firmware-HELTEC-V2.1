@@ -1,3 +1,5 @@
+Update : 01.2026 go here for automated builds [https://github.com/yo8aiv/meshtastic_heltecv2.1](https://github.com/yo8aiv/meshtastic_heltecv2.1)
+
 .. see the [Wiki for heltec v2 firmware](https://github.com/yo8aiv/WIFI-LoRa-32-V2-charging-mod---meshtastic-legacy-firmware-HELTEC-V2.1-/wiki)  and  [heltec v2.1 GPS mod](https://github.com/yo8aiv/WIFI-LoRa-32-V2-charging-and-gps-mod-meshtastic-legacy-firmware-HELTEC-V2.1/wiki/Heltec-V2-,-Heltec-V2.1--add-gps-to-you-meshtastic-node-(lora-device)-!)  as recognition just click on the star. 
 
 Tutorial for use with meshtastic , device WIFI_LoRa_32_V2.1  (SX1276)
@@ -29,6 +31,7 @@ Sollution is to change R9 to a smaller value 1.6k (or make a bridge with a wire,
 added automated building of the FW here ---> [https://github.com/yo8aiv/meshtastic_heltecv2.1](https://github.com/yo8aiv/meshtastic_heltecv2.1)
 
 keywords : heltec v2 gps connection, WIFI_LoRa_32_V2.1 gps connection, heltec v2.1 gps, heltec v2 firmware.
+
 
 
 
